@@ -37,6 +37,7 @@
 .blogs{
   padding: 20px;
   border-radius: 5px;
+  text-align: start;
 }
 .blogs:hover{
   box-shadow: 1px 3px 5px rgb(92, 91, 91);

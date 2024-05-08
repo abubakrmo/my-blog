@@ -1,3 +1,4 @@
+import Bloglist from "./blogslist";
 const Homepage = () => {
     const blogs = [
         {title: "Running home", author: "Chinua Achebe", id: 1},
@@ -6,7 +7,7 @@ const Homepage = () => {
     ]
     return ( 
         <div className="home">
-            
+            <Bloglist blogs = {blogs}/>
         </div>
      );
 }
