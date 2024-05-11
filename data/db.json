@@ -1,21 +1,21 @@
 {
     "blogs" : [
         {
-            "title": "Why is naira falling?", 
-            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit deserunt ex error ad consequatur repellendus dolores dolore explicabo nemo natus.", 
-            "author": "David Hundeyin", 
+            "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt", 
+            "body": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.", 
+            "author": "Lauren Forristal", 
             "id":1
         },
         {
-            "title": "Freedom of speech", 
-            "body": "Skidad mi lo pen den samied feoqp, Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit deserunt ex error ad consequatur repellendus dolores dolore explicabo nemo natus.", 
-            "author": "David Hundeyin", 
+            "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups", 
+            "body": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before.", 
+            "author": "Alex Wilhelm and Theresa Loconsolo", 
             "id":2
         },
         {
-            "title": "Stop coding and start thinking", 
-            "body": "Odit deserunt ex error ad consequatur repellendus dolores dolore explicabo nemo natus.", 
-            "author": "Kamis Daniel", 
+            "title": "Watch: When did iPads get as expensive as MacBooks?", 
+            "body": "Apple's iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good purchase.", 
+            "author": "Alex Wilhelm", 
             "id":3
         }
     ]

@@ -7,7 +7,7 @@ const Homepage = () => {
         <div className="home">
             {isLoading && <div style={{textAlign: "start"}}>Loading...</div>}
             {error && <div style={{textAlign: "start", color: "red"}}>{error}</div>}
-            {blogs && <Bloglist blogs = {blogs} title = {"My blog"}/>} 
+            {blogs && <Bloglist blogs = {blogs}/>} 
         </div>
      );
 }
