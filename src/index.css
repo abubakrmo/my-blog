@@ -45,3 +45,13 @@
 .blogTitle{
   color: #f1356d;
 }
+.blog-link{
+  text-decoration: none;
+}
+.blog-details h2{
+  color: #f1356d;
+}
+
+.blog-details h4{
+  margin-bottom: 10px;
+}
