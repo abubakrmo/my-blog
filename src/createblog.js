@@ -1,7 +1,7 @@
 const CreateBlog = () => {
     return ( 
         <div className="create-blog">
-            <h2>Blog title</h2>
+            <h2 style={{textAlign: 'start'}}>Create new blog</h2>
         </div>
      );
 }
