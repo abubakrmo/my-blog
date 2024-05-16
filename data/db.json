@@ -1,22 +1,40 @@
 {
-    "blogs" : [
-        {
-            "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt", 
-            "body": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.", 
-            "author": "Lauren Forristal", 
-            "id":1
-        },
-        {
-            "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups", 
-            "body": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before.", 
-            "author": "Alex Wilhelm and Theresa Loconsolo", 
-            "id":2
-        },
-        {
-            "title": "Watch: When did iPads get as expensive as MacBooks?", 
-            "body": "Apple's iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good purchase.", 
-            "author": "Alex Wilhelm", 
-            "id":3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt",
+      "body": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.",
+      "author": "Lauren Forristal",
+      "id": "1"
+    },
+    {
+      "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups",
+      "body": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before.",
+      "author": "Alex Wilhelm and Theresa Loconsolo",
+      "id": "2"
+    },
+    {
+      "title": "Watch: When did iPads get as expensive as MacBooks?",
+      "body": "Apple's iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good purchase.",
+      "author": "Alex Wilhelm",
+      "id": "3"
+    },
+    {
+      "id": "7049",
+      "title": "Dealing with Asynchronous code",
+      "body": "One important thing to note when working with the Fetch API is that it operates asynchronously. This means that when you make a request, the JavaScript code doesn't wait for the response but continues executing. To handle the asynchronous nature of the Fetch API, we use promises.\n\n",
+      "author": "Oclad Ochino"
+    },
+    {
+      "id": "6309",
+      "title": "How to Handle Authentication",
+      "body": "Many APIs require authentication to access protected resources. The Fetch API provides a way to include authentication information in your requests using headers. Let's explore how to handle authentication when making a request.",
+      "author": "Belarus Canning"
+    },
+    {
+      "id": "b754",
+      "title": "Keir Starmer sets out six Labour pledges for general election",
+      "body": "Sir Keir Starmer will unveil a ­six-point plan for Britain under Labour today with an updated version of Tony Blair’s election-winning pledge card. In an effort to distil Labour’s detailed policies into a “retail offer” to voters, Starmer will set out the “first steps” he will take if he becomes minister",
+      "author": "Belarus Canning"
+    }
+  ]
 }
