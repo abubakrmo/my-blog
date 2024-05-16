@@ -10,17 +10,22 @@ const CreateBlog = () => {
         <div className="create-blog">
             <h2 style={{textAlign: 'start'}}>Create new blog</h2>
             <form action="">
+                <label>Title:</label>
                 <input 
                 type="text" 
                 required
                 value={title}
                 onChange = {e => setTitle(e.target.value)}
                 />
+
+                <label>Body:</label>
                 <textarea
                 required
                 value={body}
                 onChange = {e => setBody(e.target.value)}
                 ></textarea>
+
+                <label>Author:</label>
                 <select
                 required
                 value={author}
@@ -31,7 +36,6 @@ const CreateBlog = () => {
                 </select>
                 <button type="submit">Create</button>
             </form>
-            <p>{author}</p>
         </div>
      );
 }
