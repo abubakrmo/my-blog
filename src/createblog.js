@@ -1,11 +1,11 @@
 import { useState } from "react";
-import { json } from "react-router-dom";
-
+import { useNavigate } from "react-router-dom";
 const CreateBlog = () => {
     const [title, setTitle] = useState('')
     const [body, setBody] = useState('')
     const [author, setAuthor] = useState('Oclad Ochino')
     const [isLoading, setisLoading] = useState(false)
+    const navigate = useNavigate();
 
     const handleSubmit = e => {
         e.preventDefault();
@@ -20,6 +20,7 @@ const CreateBlog = () => {
         .then(()=>{
             console.log('blog created')
             setisLoading(false)
+            navigate('/')
         })
     }
 
